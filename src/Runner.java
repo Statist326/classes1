@@ -19,7 +19,7 @@ public class Runner {
                  if(m>n)n=m;
          }
         contain = businessTrips[0].getDays()+businessTrips[1].getDays();
-System.out.print("Max Total = "+n+"\n"+"Total duration = "+contain);
+System.out.print("Max Total = " +n+ "\n"+"Total duration = "+contain);
 
 
     }
